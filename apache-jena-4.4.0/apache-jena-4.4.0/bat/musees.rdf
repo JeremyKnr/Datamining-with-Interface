@@ -1,0 +1,149 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://www.owl-ontologies.com/unnamed.owl#" > 
+  <rdf:Description rdf:nodeID="A0">
+    <j.0:url_musee>www.museedesconfluences.fr/</j.0:url_musee>
+    <j.0:nom_musee>muséum d'histoire naturelle</j.0:nom_musee>
+    <j.0:lng_musee>4,818042</j.0:lng_musee>
+    <j.0:lat_musee>45,73319</j.0:lat_musee>
+    <j.0:id_musee>M7042</j.0:id_musee>
+    <j.0:commune_musee>Lyon</j.0:commune_musee>
+    <j.0:codep_musee rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9002E4</j.0:codep_musee>
+    <j.0:adresse_musee>86 quai Perrache</j.0:adresse_musee>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <j.0:url_musee>www.chu-lyon.fr/fr/musee-des-hcl</j.0:url_musee>
+    <j.0:nom_musee>musée des hospices civils de Lyon</j.0:nom_musee>
+    <j.0:lng_musee>4,831492</j.0:lng_musee>
+    <j.0:lat_musee>45,760912</j.0:lat_musee>
+    <j.0:id_musee>M1039</j.0:id_musee>
+    <j.0:commune_musee>Lyon</j.0:commune_musee>
+    <j.0:codep_musee rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9002E4</j.0:codep_musee>
+    <j.0:adresse_musee>3 quai des Célestins</j.0:adresse_musee>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <j.0:url_musee>www.gadagne-lyon.fr/</j.0:url_musee>
+    <j.0:nom_musee>musée Gadagne</j.0:nom_musee>
+    <j.0:lng_musee>4,827749</j.0:lng_musee>
+    <j.0:lat_musee>45,763856</j.0:lat_musee>
+    <j.0:id_musee>M1032</j.0:id_musee>
+    <j.0:commune_musee>Lyon</j.0:commune_musee>
+    <j.0:codep_musee rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9005E4</j.0:codep_musee>
+    <j.0:adresse_musee>1 place du Petit Collège</j.0:adresse_musee>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <j.0:url_musee>www.museedesconfluences.fr/</j.0:url_musee>
+    <j.0:nom_musee>musée Guimet</j.0:nom_musee>
+    <j.0:lng_musee>4,818042</j.0:lng_musee>
+    <j.0:lat_musee>45,73319</j.0:lat_musee>
+    <j.0:id_musee>M7042</j.0:id_musee>
+    <j.0:commune_musee>Lyon</j.0:commune_musee>
+    <j.0:codep_musee rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9002E4</j.0:codep_musee>
+    <j.0:adresse_musee>86 quai Perrache</j.0:adresse_musee>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <j.0:url_musee>www.museedestissus.fr/</j.0:url_musee>
+    <j.0:nom_musee>musée historique des tissus</j.0:nom_musee>
+    <j.0:lng_musee>4,831633</j.0:lng_musee>
+    <j.0:lat_musee>45,753117</j.0:lat_musee>
+    <j.0:id_musee>M1038</j.0:id_musee>
+    <j.0:commune_musee>Lyon</j.0:commune_musee>
+    <j.0:codep_musee rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9002E4</j.0:codep_musee>
+    <j.0:adresse_musee>34, rue de la Charité</j.0:adresse_musee>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <j.0:url_musee>www.mba-lyon.fr/fr</j.0:url_musee>
+    <j.0:nom_musee>musée des beaux-arts</j.0:nom_musee>
+    <j.0:lng_musee>4,833576</j.0:lng_musee>
+    <j.0:lat_musee>45,767177</j.0:lat_musee>
+    <j.0:id_musee>M1031</j.0:id_musee>
+    <j.0:commune_musee>Lyon</j.0:commune_musee>
+    <j.0:codep_musee rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9001E4</j.0:codep_musee>
+    <j.0:adresse_musee>20 place des Terreaux</j.0:adresse_musee>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <j.0:url_musee>www.chrd.lyon.fr/</j.0:url_musee>
+    <j.0:nom_musee>centre d'histoire de la résistance</j.0:nom_musee>
+    <j.0:lng_musee>4,835797</j.0:lng_musee>
+    <j.0:lat_musee>45,747037</j.0:lat_musee>
+    <j.0:id_musee>M1034</j.0:id_musee>
+    <j.0:commune_musee>Lyon</j.0:commune_musee>
+    <j.0:codep_musee rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9007E4</j.0:codep_musee>
+    <j.0:adresse_musee>14 avenue Berthelot</j.0:adresse_musee>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <j.0:url_musee>www.mac-lyon.com/fr</j.0:url_musee>
+    <j.0:nom_musee>musée d'art contemporain</j.0:nom_musee>
+    <j.0:lng_musee>4,852921</j.0:lng_musee>
+    <j.0:lat_musee>45,784864</j.0:lat_musee>
+    <j.0:id_musee>M1033</j.0:id_musee>
+    <j.0:commune_musee>Lyon</j.0:commune_musee>
+    <j.0:codep_musee rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9006E4</j.0:codep_musee>
+    <j.0:adresse_musee>quai Charles de Gaulle</j.0:adresse_musee>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <j.0:url_musee>lugdunum.grandlyon.com/fr/</j.0:url_musee>
+    <j.0:nom_musee>Lugdunum, musée et théâtres romains</j.0:nom_musee>
+    <j.0:lng_musee>4,82004</j.0:lng_musee>
+    <j.0:lat_musee>45,760529</j.0:lat_musee>
+    <j.0:id_musee>M1036</j.0:id_musee>
+    <j.0:commune_musee>Lyon</j.0:commune_musee>
+    <j.0:codep_musee rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9005E4</j.0:codep_musee>
+    <j.0:adresse_musee>17 rue Cléberg</j.0:adresse_musee>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <j.0:musees rdf:nodeID="A10"/>
+    <j.0:musees rdf:nodeID="A3"/>
+    <j.0:musees rdf:nodeID="A6"/>
+    <j.0:musees rdf:nodeID="A11"/>
+    <j.0:musees rdf:nodeID="A12"/>
+    <j.0:musees rdf:nodeID="A2"/>
+    <j.0:musees rdf:nodeID="A5"/>
+    <j.0:musees rdf:nodeID="A7"/>
+    <j.0:musees rdf:nodeID="A4"/>
+    <j.0:musees rdf:nodeID="A1"/>
+    <j.0:musees rdf:nodeID="A0"/>
+    <j.0:musees rdf:nodeID="A13"/>
+    <j.0:musees rdf:nodeID="A8"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <j.0:url_musee>www.museedestissus.fr/</j.0:url_musee>
+    <j.0:nom_musee>musée des arts décoratifs</j.0:nom_musee>
+    <j.0:lng_musee>4,83153</j.0:lng_musee>
+    <j.0:lat_musee>45,75342</j.0:lat_musee>
+    <j.0:id_musee>M1037</j.0:id_musee>
+    <j.0:commune_musee>Lyon</j.0:commune_musee>
+    <j.0:codep_musee rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9002E4</j.0:codep_musee>
+    <j.0:adresse_musee>34 rue de la charité</j.0:adresse_musee>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <j.0:url_musee>www.imprimerie.lyon.fr/fr</j.0:url_musee>
+    <j.0:nom_musee>musée de l'imprimerie et de la communication graphique</j.0:nom_musee>
+    <j.0:lng_musee>4,834752</j.0:lng_musee>
+    <j.0:lat_musee>45,764219</j.0:lat_musee>
+    <j.0:id_musee>M1127</j.0:id_musee>
+    <j.0:commune_musee>Lyon</j.0:commune_musee>
+    <j.0:codep_musee rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9002E4</j.0:codep_musee>
+    <j.0:adresse_musee>13 rue de la Poulaillerie</j.0:adresse_musee>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <j.0:url_musee>museepompiers.com/</j.0:url_musee>
+    <j.0:nom_musee>musée des sapeurs-pompiers de Lyon</j.0:nom_musee>
+    <j.0:lng_musee>4,797411</j.0:lng_musee>
+    <j.0:lat_musee>45,790491</j.0:lat_musee>
+    <j.0:id_musee>M1128</j.0:id_musee>
+    <j.0:commune_musee>Lyon</j.0:commune_musee>
+    <j.0:codep_musee rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9009E4</j.0:codep_musee>
+    <j.0:adresse_musee>358 avenue de Champagne</j.0:adresse_musee>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <j.0:url_musee>www.museedesconfluences.fr/</j.0:url_musee>
+    <j.0:nom_musee>musée des Confluences</j.0:nom_musee>
+    <j.0:lng_musee>4,818042</j.0:lng_musee>
+    <j.0:lat_musee>45,73319</j.0:lat_musee>
+    <j.0:id_musee>M7042</j.0:id_musee>
+    <j.0:commune_musee>Lyon</j.0:commune_musee>
+    <j.0:codep_musee rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9002E4</j.0:codep_musee>
+    <j.0:adresse_musee>86 quai Perrache</j.0:adresse_musee>
+  </rdf:Description>
+</rdf:RDF>
